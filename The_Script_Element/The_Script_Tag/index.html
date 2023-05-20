@@ -1,0 +1,42 @@
+<!-- index.html -->
+
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link href="style.css" type="text/css" rel="stylesheet">
+    <title>The Script Tag</title>
+</head>
+
+<body>
+    <header>
+
+    </header>
+
+    <main>
+        <section class="container">
+            <img src="normal.png" id="myImage" />
+            <p onclick="blooming()">Codecademy</p>
+        </section>
+        <script>
+            function blooming() {
+                let image = document.getElementById('myImage');
+                if (image.src.match("normal")) {
+                    image.src = "./images/flower.png";
+                }
+                else {
+                    image.src = "./images/normal.png";
+                }
+            }
+        </script>
+    </main>
+
+    <footer>
+
+    </footer>
+</body>
+
+</html>
