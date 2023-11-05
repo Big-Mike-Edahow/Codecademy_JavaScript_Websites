@@ -1,6 +1,8 @@
 Event Types
 
-Beyond the click event, there are all types of DOM events that can fire in a browser! It’s important to know most events in the DOM take place without being noticed because there are no event handlers connected to them.
+Beyond the click event, there are all types of DOM events that can fire in a browser!
+
+It’s important to know most events in the DOM take place without being noticed because there are no event handlers connected to them.
 
 It’s also important to know some registered events don’t depend on user interactions to fire. For instance, the load event fires after website files completely load in the browser.
 
