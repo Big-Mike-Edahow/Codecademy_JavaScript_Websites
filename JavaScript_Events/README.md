@@ -1,4 +1,6 @@
-DOCUMENT OBJECT MODEL EVENTS WITH JAVASCRIPT
+DOCUMENT OBJECT MODEL
+EVENTS WITH JAVASCRIPT
+
 What is an Event?
 
 When you refresh your email inbox, double tap on a post, or scroll through a newsfeed,
