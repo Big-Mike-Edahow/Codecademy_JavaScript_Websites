@@ -1,2 +1,2 @@
 # Codecademy_JavaScript_Websites
-Source code from Codecademy's Building Interactive JavaScript Websites
+Source code from my Codecademy Building Interactive JavaScript Websites course.
